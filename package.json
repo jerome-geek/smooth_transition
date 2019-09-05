@@ -1,0 +1,12 @@
+{
+  "name": "smooth_transition",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/jerome-spin/smooth_transition.git",
+  "author": "Jerome <jerome@spinprotocol.io>",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "sass": "^1.23.0-module.beta.1"
+  }
+}
